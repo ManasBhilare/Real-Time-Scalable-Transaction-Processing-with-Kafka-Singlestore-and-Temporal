@@ -1,4 +1,4 @@
-# Kafka-Based Transaction Processing with Temporal and Grafana
+# Real Time Scalable Transaction Processing with Kafka Singlestore and Temporal
 
 ## Overview
 This project is a distributed transaction processing system using **Apache Kafka**, **Temporal**, **MySQL (SingleStore)**, and **Grafana** for monitoring. The system can handle large-scale transaction data efficiently with **data partitioning, parallelization, and distributed computing**.
